@@ -1,2 +1,2 @@
 # test-file
-we have test to make conflict while merging with editing 2 same file then merging it.
+test in main branch
